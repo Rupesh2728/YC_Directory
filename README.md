@@ -68,8 +68,7 @@
 
 - For a more comprehensive understanding, please explore the website directly at https://yc-directory-one-roan.vercel.app/
 
-  
-https://github.com/user-attachments/assets/e12361c7-7af9-4a3a-85d1-58417c3daa9b
+https://github.com/user-attachments/assets/bb0ef142-31a7-4f7e-9f28-62eb545bab7b
 
 
 <h2 align="left">Installation</h2>
